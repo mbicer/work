@@ -1,2 +1,2 @@
-# Apriori code
-# initial version
+# Apriori code initial version
+
