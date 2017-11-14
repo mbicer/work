@@ -61,7 +61,7 @@ int thresCalc(double, int);
 int main()
 {
 	int thresINTDB =0;
-    double thresPercent = 50;
+    	double thresPercent = 50;
 	int numDB =0;
 	int maxTransSizeDB =0;
 
